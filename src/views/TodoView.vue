@@ -72,7 +72,7 @@
         }
     }
 
-    // 驗證
+    //  驗證
     const user = ref({
         nickname: '',
         uid: ''
